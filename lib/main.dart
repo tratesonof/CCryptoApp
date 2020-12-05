@@ -52,6 +52,13 @@ class CCTracker extends StatelessWidget {
   }
 }
 
-// https://github.com/tratesonof/CCryptoApp.git
 // git add .
-
+// git commit -m "bloc1"
+// git commit --message "bloc1"
+// git remote add origin https://github.com/tratesonof/CCryptoApp.git
+// git push origin_2
+// git push origin
+// git checkout -b Bloc1
+// git branch -d Bloc1 // удалить
+// git push -f
+// git branch --set-upstream-to=origin main
